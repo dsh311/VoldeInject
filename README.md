@@ -1,4 +1,7 @@
 # VoldeInject
+<p align="center">
+  <img src="https://github.com/dsh311/VoldeInject/blob/main/docs/VoldeInject.gif" alt="VoldeInject" width="500"/>
+</p>
 
 **VoldeInject** is a research project focused on exploring multiple techniques for loading dynamic libraries into running Windows processes.
 
